@@ -5,7 +5,7 @@ curl https://api.blockcypher.com/v1/btc/main?token=$YOURTOKEN
 curl https://api.blockcypher.com/v1/tokens/$YOURTOKEN
 {
 "token": "YOURTOKEN",
-"limits": {
+"limits": {2798689654436
   "api/hour": 10000,
   "api/second": 500,
   "hooks/hour": 5000,
