@@ -1,4 +1,4 @@
-# Adding your token as URL parameter
+bc1q836xn5u9jqhvxxym94xghwk3jg6aq5av3exxgh# Adding your token as URL parameter
 curl https://api.blockcypher.com/v1/btc/main?token=$YOURTOKEN
 
 # Checking your token's limits
